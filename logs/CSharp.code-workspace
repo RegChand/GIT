@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../CSharp"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Hello World.slnx"
+	}
+}
